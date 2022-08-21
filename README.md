@@ -1,2 +1,2 @@
 # odin-landing-page
-Odin Project
+Flexbox Basics
