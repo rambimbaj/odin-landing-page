@@ -68,6 +68,7 @@ a:hover {
     flex-direction:column;
     align-items:flex-end;
     width:400px;
+    margin-left:50px;
 }
 .top-right img {
     display:flex;
