@@ -84,3 +84,9 @@ header .logo {
     display:flex;
     justify-content:space-between;
 }
+
+footer {
+    display:flex;
+    justify-content:center;
+    background-color:azure;
+}
